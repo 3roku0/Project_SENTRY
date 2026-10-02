@@ -1,0 +1,30 @@
+# Environment variables and secrets
+.env
+.env*.local
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+build/
+dist/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
